@@ -1,0 +1,19 @@
+{
+  "name": "plants-and-climate",
+  "version": "1.0.0",
+  "description": "An app to help people choose plant varietals and planting dates based on their climate",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinsant/plants_and_climate.git"
+  },
+  "author": "Calvin Sant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinsant/plants_and_climate/issues"
+  },
+  "homepage": "https://github.com/calvinsant/plants_and_climate#readme"
+}
